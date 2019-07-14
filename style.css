@@ -1,0 +1,49 @@
+.c1{
+background-color: antiquewhite;
+}
+
+.c2{
+background-color: blue;
+}
+
+.c3{
+background-color: aqua;
+
+}
+
+.c4{
+background-color: blueviolet;
+}
+
+.c5{
+background-color: brown;
+
+}
+
+
+@media (min-width: 576px) {
+    .c1{
+        background-color: blue;
+        }
+}
+
+
+@media (min-width: 768px) {
+    .c1{
+        background-color: black;
+        }
+}
+
+
+@media (min-width: 992px) {
+    .c1{
+        background-color: orange;
+        }
+}
+
+
+@media (min-width: 1200px) {
+    .c1{
+        background-color: grey;
+        }   
+}
